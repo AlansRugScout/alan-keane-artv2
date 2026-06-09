@@ -1,0 +1,12 @@
+{
+  "name": "alan-keane-art",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "resend": "^1.0.0"
+  }
+}
